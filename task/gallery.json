@@ -25,15 +25,15 @@
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/cmbchina.qxrewrite,tag=招行信用卡_获取Cookie"
       },
       {
-        "config":"10 0 0 * * * script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/task/master/v2ex.png, enabled=true",
+        "config":"10 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/task/master/v2ex.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/v2ex.qxrewrite,tag=V2EX_获取Cookie"
       },
       {
-        "config":"35 1 0 * * * script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png, enabled=true",
+        "config":"35 1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/videoqq.qxrewrite,tag=腾讯视频_获取Cookie"
       },
       {
-        "config":"0 6 0 * * * script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/WeChatLottery_new.js, tag=活动抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=true",
+        "config":"0 6 0 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/WeChatLottery_new.js, tag=活动抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/QQ.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/WeChatLottery_new.qxrewrite,tag=活动抽奖_获取Cookie"
       },
       {
