@@ -1,7 +1,7 @@
 {"name":"myGallery",
     "task":[
        {
-        "config":"55 21 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+        "config":"55 21 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/JD_DailyBonus.qxrewrite,tag=京东_获取Cookie"
       },
       {
