@@ -3,4 +3,5 @@
 hostname = *.meituan.com
 
 # 美团 cookie
+# 登录美团app->我的->签到领红包
 ^https?:\/\/i\.meituan\.com\/evolve\/signin\/signpost\/ url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.cookie.js

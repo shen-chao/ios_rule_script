@@ -1,0 +1,7 @@
+# 此远程订阅用于解决QX任务脚本的cookie获取，仅适用于QX 1.0.10及更高版本，您可在使用后手动将其禁用，以避免无意义的MITM。
+
+hostname = *.youyun666.com
+
+# 机场签到 GetCookie
+# 登录机场并签到
+https:\/\/youyun666\.com url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js

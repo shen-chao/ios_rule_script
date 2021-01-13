@@ -1,0 +1,7 @@
+# 此远程订阅用于解决QX任务脚本的cookie获取，仅适用于QX 1.0.10及更高版本，您可在使用后手动将其禁用，以避免无意义的MITM。
+
+hostname = *.cmbchina.com
+
+# cmbchina GetCookie
+# 招商银行信用卡微信公众号
+https://weclub\.ccc\.cmbchina.com/SCRMCustomActivityFront/checkin/request/get-home-data\.json\?activityCode=checkin url script-request-header https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js

@@ -3,4 +3,5 @@
 hostname = api.m.jd.com
 
 # 京东 cookie
+# 浏览器登录 bean.m.jd.com,点击签到并登录
 https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js

@@ -1,0 +1,7 @@
+# 此远程订阅用于解决QX任务脚本的cookie获取，仅适用于QX 1.0.10及更高版本，您可在使用后手动将其禁用，以避免无意义的MITM。
+
+hostname = *.v2ex.com
+
+# 腾讯视频 GetCookie
+# 手机浏览器访问并登录下https://film.qq.com/,随便选 1 部电影观看
+^https:\/\/access.video.qq.com\/user\/auth_refresh url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.cookie.js

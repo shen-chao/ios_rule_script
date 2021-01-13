@@ -2,5 +2,7 @@
 
 hostname = *.bilibili.com
 
-;哔哩哔哩直播 GetCookie by chavyleung
+# 哔哩哔哩直播 GetCookie by chavyleung
+# 网页登录bilibili
+#联通手机营业厅app->搜索天天抽奖
 ^https?:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js
