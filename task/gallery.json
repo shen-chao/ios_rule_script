@@ -13,6 +13,10 @@
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/bilibili.qxrewrite,tag=哔哩哔哩_获取Cookie"
       },
       {
+        "config":"20 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js, tag=哔哩哔哩_银瓜子换硬币, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/bilibili.png, enabled=true",
+        "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/bilibili.qxrewrite,tag=哔哩哔哩_获取Cookie"
+      },
+      {
         "config":"21 5 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/UmeTrip.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/umetrip.qxrewrite,tag=航旅纵横_获取Cookie"
       },
