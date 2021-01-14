@@ -29,6 +29,10 @@
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/WeChatLottery_new.qxrewrite,tag=活动抽奖_获取Cookie"
       },
       {
+        "config":"3 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/task/master/Netease.png,enabled=true",
+        "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/neteasemusic.qxrewrite,tag=网易云音乐_获取Cookie"
+      },
+      {
         "config":"10 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/task/master/v2ex.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/shen-chao/ios_rule_script/master/task/v2ex.qxrewrite,tag=V2EX_获取Cookie"
       },
